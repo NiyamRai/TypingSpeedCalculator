@@ -41,8 +41,6 @@
 		
 		
 		
-		
-		
 		//COUNTDOWN
 		static void countdown(int n) throws InterruptedException
 		{
